@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# See http://pythonhosted.org/an_example_pypi_project/setuptools.html
 
 import os
 from setuptools import setup
